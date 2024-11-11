@@ -4,6 +4,14 @@
 
 This repository contains the project work for the Analysis and Design of Sotware Systems course at Department of Informatics & Telecommunications - NKUA. <br>
 
+## Table of Contents
+
+- [Repository Overview](#repository-overview)
+- [Assignment 1: Game Application UML Diagrams and Structured Analysis](#assignment-1-game-application-uml-diagrams-and-structured-analysis)
+- [Project Objectives](#project-objectives)
+- [Diagrams and Their Descriptions](#diagrams-and-their-descriptions)
+- [Bonus Assignment](#bonus-assignment)
+- [Key Steps](#key-steps)
 
 ## Assignment 1: Game Application UML Diagrams and Structured Analysis
 
@@ -47,7 +55,7 @@ Demonstrates workflows for key actions (e.g., activating the Medic, Defender, Ex
 Provides an abstract view (Level 1) of data processing in the application, mapping out inputs, outputs, and data stores involved in user interactions and game state management.
 
 
-## Bonus
+## Bonus Assignment
 
 This project is an extension of a previously designed system developed for the Software Design course, focused on further expanding its functionality through additional object-oriented analysis and design. This expansion is based on specific requirements gathered through a user interview and includes the addition of new classes and features to enhance the system’s capabilities.
 
