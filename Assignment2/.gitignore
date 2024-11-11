@@ -1,0 +1,6 @@
+# Ignore the pytest cache
+__pycache__/
+.pytest_cache/
+
+# Ignore the python cache
+*.pyc
